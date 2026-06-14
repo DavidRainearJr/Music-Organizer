@@ -1,0 +1,42 @@
+# Local/private files
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+
+# Music and media files
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.opus
+*.wav
+*.wma
+*.aiff
+*.alac
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# Cover art and generated images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+
+# Archives and packaged libraries
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
